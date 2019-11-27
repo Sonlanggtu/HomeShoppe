@@ -1,0 +1,2 @@
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="TabSearch.ascx.cs" Inherits="HomeShoppe.Page.Client.Generic.TabSearch" %>
+ <input type="search" class="form-control" placeholder="Tìm kiếm sản phẩm ..." />

@@ -1,0 +1,1472 @@
+body{
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+    width: 1519px;
+    height: 1151px;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.error{
+    color: red;
+}
+
+.Wrap_Header_Content {
+    width: 1215px;
+    height: 2000px;
+    margin-left: 152px;
+    margin-right: 147px;
+    background-color: white;
+}
+
+.productcategory{
+    display:none;
+    width:0px;
+    height:0px;
+}
+.Col_SupportContact{
+    margin: 0px 20px;
+    width: 365px;
+    height: 130px;
+    background-color: white;
+    float: left;
+}
+
+.SupportContact {
+    width: 1215px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 130px;
+    background-color: white;
+}
+
+.LinkDetailProduct{
+    width: 1200px;
+    height: 35px;
+    background-color: white;
+    list-style-type: none;
+    float: left;
+    margin-bottom: 5px;
+    margin-left: 20px;
+    padding-left: 20px;
+    float: left;
+    
+}
+
+.Sapxep{
+    width: 1180px ;
+    height:50px ;
+    background-color: #f5f5f5;
+    float: left;
+    margin-left: 10px;
+}
+
+.Sapxepheader{
+    width: 220px;
+    height: 50px;
+    background-color: #f5f5f5;
+    float: left;
+    font-size: 15px;
+    padding-top: 10px;
+    float: right;
+}
+
+.Sapxepheader1{
+    width: 120px;
+    height: 50px;
+    background-color: #f5f5f5;
+    float: left;
+    font-size: 15px;
+    padding-top: 20px;
+    float: right;
+}
+
+#kiemtra{
+    
+}
+
+
+
+.cantheLinkProduct {
+    padding-left: 0px;
+}
+
+
+.TittleCart{
+    margin-top: 40px;
+    width: 1200px;
+    height: 50px;
+    background-color: #16A085;
+    list-style-type: none;
+    float: left;
+    margin-bottom: 5px;
+    margin-left: 20px;
+    padding-left: 20px;
+}
+
+.CacSanPhamMua{
+    margin-top: 15px;
+    width: 1200px;
+    height: 120px;
+    background-color: beige;
+    list-style-type: none;
+    float: left;
+    margin-bottom: 5px;
+    margin-left: 20px;
+    padding-left: 20px;
+}
+
+.ThanhTien{
+    margin-top: 30px;
+    width: 300px;
+    height: 60px;
+    background-color: white;
+    float: left;
+    margin-left: 850px;
+}
+
+.img-itemcart{
+    margin-left: 0px;
+    width:120px;
+    height: 75px;
+    float: left;
+    background-color: beige;
+    margin-top: 20px;
+}
+
+.noidungcart{
+    margin-top: 20px;
+    width:240px;
+    height: 75px;
+    float: left;
+    background-color: beige;
+    padding-top: 10px;
+}
+
+.canduoi{
+    margin-top: 40px;
+}
+
+.cangiua_soluong{
+    margin-top: 40px;
+    margin-left: 50px;
+}
+
+.cangiua_tongcong{
+    margin-top: 40px;
+    margin-left: 50px;
+}
+
+.cangiua_chucnang{
+    margin-top: 30px;
+    margin-left: 60px;
+}
+
+.textmoney{
+    color:red;
+    text-align: center;
+    font-weight: 600;
+}
+
+.noidungcart p{
+    text-align: center;
+    font-weight: 600;
+    font-size: 14px;
+}
+
+.cancart{
+    padding-top: 10px;
+    font-weight: 500;
+    color: white;
+    font-size: 15px;
+}
+
+
+
+.LinkDetailProduct  ul{
+    width: 1115px;
+    height: 35px;
+    background-color: white;
+    list-style-type: none;
+    float: left;
+    padding-left: 0px;
+    margin-top: 0px;
+    
+}
+
+.LinkDetailProduct  ul.cankhoi{
+    width: 1115px;
+    height: 35px;
+    background-color: white;
+    list-style-type: none;
+    float: left;
+    padding-left: 0px;
+    margin-top: 10px;
+    
+}
+
+.LinkDetailProduct  ul li{
+    width: 90px;
+    height: 35px;
+    background-color: white;
+    float: left;
+    font-size: 14px;
+    text-align: center;
+    padding-top: 5px;
+    
+}
+
+.LinkDetailProduct  ul li a{
+    color: blue;
+}
+
+.LinkDetailProduct  ul li a:hover{
+    color: red;
+}
+
+
+
+.NameProductDetail{
+    height: 40px;
+    width:1215px;
+    float: left;    
+}
+
+.Picture_left_Detail{
+    width: 450px;
+    height: 650px;
+    background-color: white;
+    float: left;
+    
+}
+
+.Price_between_Detail{
+    width: 450px;
+    height: 650px;
+    background-color: white;
+    float: left;
+    margin-left: 20px;
+}
+
+.MotaSanPham{
+    width: 850px;
+    height: 550px;
+    background-color: white;
+    float: left;
+    border-radius: 15px;
+    border:1px solid silver;
+    margin-bottom: 20px;
+    padding-top: 20px;
+}
+
+.btnchuyenxacnhanhang{
+    margin-left: 920px;
+    margin-top: 20px;
+}
+
+.MotaSanPham h4{
+    font-weight: 500;
+    padding-left: 20px;
+}
+
+.MotaSanPham p{
+    font-weight: 500;
+    text-align: left;
+    padding-left: 30px;
+}
+
+.MotaSanPham p span{
+    font-weight: 700;
+}
+
+.Price_Detail{
+    width:450px;
+    height: 120px;
+    background-color: white;
+    float: left;
+}
+
+.Tuy_chon_san_pham{
+    width:450px;
+    height: 190px;
+    background-color: white;
+    padding-top: 20px;
+    padding-left: 20px;
+    float: left;
+    border: 1px solid silver;
+    border-radius: 15px;
+}
+
+.DacdiemNoiBat{
+    width:450px;
+    height: 330px;
+    background-color: white;
+    padding-top: 20px;
+    padding-left: 20px;
+    float: left;
+    border: 1px solid silver;
+    border-radius: 10px;
+    margin-top: 5px;
+    
+}
+
+.DacdiemNoiBat h4{
+    font-weight: 700;
+}
+
+.MuaNgay{
+   margin-top: 20px;
+   margin-left: 150px;
+}
+
+.Tuy_chon_san_pham ul li{
+    padding-top: 20px;
+}
+
+.Tuy_chon_san_pham ul{
+    list-style-type: none;
+}
+
+.Tuy_chon_san_pham ul li{
+    width: 150px ;
+    height: 60px ;
+    background-color: #fff;
+    float: left;
+}
+
+.Price_Detail h4{
+    text-align: center;
+    border: 1px solid silver;
+    border-radius: 10px;
+}
+
+.Price_Detail h4 span{
+    color: red;
+}
+
+.Price_Detail h4 span.giabandau{
+    color: red;
+    text-decoration: line-through;
+}
+
+.Price_Detail h5{
+    color : green;
+    font-size: 17px;
+    font-weight: 600;
+    padding-left: 20px;
+   
+}
+
+.headercontentAbout{
+    width:365px;
+    height: 450px;
+    background-color: white;
+    float: left;
+    margin: 40px 20px;
+}
+
+.headercontentAbout h3{
+    font-weight: 600;
+    text-align: center;
+}
+
+.Video_introduce{
+    width: 450px;
+    height: 220px;
+    background-color: white;
+    float: left;
+    padding-left: 23px;
+}
+
+.Picture_detail{
+    width: 450px;
+    height: 420px;
+    background-color: white;
+    float: left;
+    padding-left: 23px;
+    padding-top: 10px;
+}
+
+.ChinhsachBaoHanh_right{
+    width: 270px;
+    height: 650px;
+    background-color: white;
+    margin-left: 20px;
+    float: left;
+    
+    
+}
+
+.NoiDungBaoHanh{
+    width: 278px;
+    height: 510px;
+    background-color: white;
+    float: left;
+    border: 1px solid silver;
+    border-radius: 10px;
+}
+
+.HeaderNoiDungBaoHanh{
+    width: 277px;
+    height: 70px;
+    background-color: #f7f7f7;
+    float: left;
+    font-weight: 600;
+    text-align: center;
+    color:green;
+
+
+}
+
+.section_NDBaoHanh{
+    width:  270px;
+    height: 45px;
+    float: left;
+    margin-top: 20px;
+}
+
+.icon-HeaderNoiDungBaoHanh{
+    width:  50px;
+    height: 45px;
+    background-color: white;
+    float: left;
+    padding-top: 2px;
+    margin-top: 5px;
+    
+    
+}
+
+.iconNoiDung-BaoHanh{
+    width:  215px;
+    height: 45px;
+    background-color: white;
+    float: left;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.iconNoiDung-BaoHanh > span{
+    font-weight: 600;
+}
+
+.NameProductDetail h1{
+    font-size: 23px;
+    padding-left: 20px;
+    margin-top: 5px;
+}
+
+
+.LinkDetailProduct  ul li span{
+    padding-left: 4px;
+    
+}
+
+.LinkDetailProduct  ul li a{
+    text-decoration: none;
+}
+
+
+
+.Col_phoneContact{
+    width: 365px;
+    height: 130px;
+    background-color: #2ECC71;
+    border:1px solid silver;
+}
+
+.Col_phoneContact h4{
+    text-align: center;
+    font-weight: 600px;
+    color:black;
+    font-weight: 500;
+}
+
+.icon-contentphone{
+    margin-left: 20px;
+    padding-top:5px;
+    height: 48px;
+    width:48px;
+    background-color: #2ECC71;
+    float: left;
+}
+
+.content-right-phone > p{
+    text-align: center;
+    font-size: 13px;
+    font-weight: 800px;
+}
+
+.content-right-phone{
+    width: 240px;
+    height: 48px;
+    background-color: #2ECC71;
+    float: left;
+}
+
+.Wrap_Header_Content_Register{
+    margin-left: 152px;
+    margin-right: 147px;
+    width: 1215px;
+    height: 830px;
+    background-color: white;
+}
+
+.Wrap_Header_Content_Login{
+    margin-left: 152px;
+    margin-right: 147px;
+    width: 1215px;
+    height: 700px;
+    background-color: white;
+}
+
+.Wrap_Header_Content_Cart{
+    margin-left: 152px;
+    margin-right: 147px;
+    width: 1215px;
+    height: 1600px;
+    background-color: white;
+}
+
+.Wrap_Header_Content_About{
+    margin-left: 152px;
+    margin-right: 147px;
+    width: 1215px;
+    height: 920px;
+    background-color: white;
+}
+
+.Wrap_Header_Content_ProductCategory{
+    margin-left: 152px;
+    margin-right: 147px;
+    width: 1215px;
+    height: 1470px;
+    background-color: white;
+}
+
+
+.Wrap_Header_Content_News{
+    margin-left: 152px;
+    margin-right: 147px;
+    width: 1215px;
+    height: 1400px;
+    background-color: white;
+}
+
+
+.Wrap_Header_Content_Detial_Product{
+    margin-left: 152px;
+    margin-right: 147px;
+    width: 1215px;
+    height: 2050px;
+    background-color: white;
+}
+
+
+.Wrap_Header_Content_Contact{
+    margin-left: 152px;
+    margin-right: 147px;
+    width: 1215px;
+    height: 940px;
+    background-color: white;
+}
+
+.step_giohang{
+    color: #2EEC71;
+    font-weight: 600;
+}
+
+.gui_tin_nhan{
+    width:1215px ;
+    height: 440px;
+    margin : 70px 0;
+    background-color: white;
+}
+
+.gui_tin_nhan h2{
+    text-align: center;
+    font-weight: 700;
+    color:black;
+}
+
+.send_message{
+    margin-top: 30px;
+    margin-left:  550px;
+}
+
+.content_message_left{
+    padding-top: 30px;
+    width:  567px ;
+    height: 320px;
+    margin-right: 40px;
+    background-color: white;
+    float: left;
+    border: 1px solid silver;
+    border-radius: 5px;
+}
+
+.content_message_right{
+    width: 567px ;
+    height: 320px;
+    margin-right: 40px;
+    background-color: white;
+    float: left;
+}
+
+
+.Header{
+    width: 1215px;
+    height: 671px;
+    background-color: white;
+}
+
+.TopBar{
+    width: 1215px;
+    height: 60px;
+    background-color: white;
+}
+
+.hotline{
+    width: 300px;
+    height: 60px;
+    background-color: white;
+    float: left;
+    text-align: center;
+    padding-top:15px;
+}
+
+.hotline p span {
+    color:black;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.hotline p > span.number {
+    color:red;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.menu_top{
+    width: 400px;
+    height: 60px;
+    background-color: white;
+    float: left;
+    margin-left: 515px;
+    padding-left: 60px;
+}
+
+.menu_top_left{
+    width: 210px;
+    height: 60px;
+    background-color: white;
+    float: left;
+    padding-top:15px;
+
+}
+
+.ul_menu_top_left{
+    list-style-type: none;
+    width: 210px;
+    height: 40px;
+    padding-left: 2px;
+    background-color: white;
+    
+    float: left;
+    
+}
+
+.li_menu_top_left{
+    width: 100px;
+    height: 30px;;
+    float: left;
+}
+
+.menu_top_right{
+    width: 130px;
+    height: 30px;
+    /* background-color: rgb(24, 207, 64); */
+    padding-top:15px;
+    float: left;
+}
+
+
+
+.ul_menu_top_right{
+    list-style-type: none;
+    padding-left: 2px;
+    float: left;
+    width: 130px;   
+    height: 30px;
+    
+}
+
+
+.li_menu_top_right{
+    width: 30px;
+    height: 30px;
+    float: left;
+}
+
+.li_menu_top_left > a:hover{
+    color: red;
+    text-decoration: none;
+    
+}
+
+.li_menu_top_right > a:hover{
+    color: red;
+    
+}
+
+
+.HeaderTop{
+    width: 1215px;
+    height: 114px;
+    background-color: white;
+}
+
+.HeaderTopLogo{
+    width: 400px;
+    height: 114px;
+    background-color: white;
+    padding-top: 20px;
+    padding-left: 5px;
+    float: left;
+}
+
+
+.HeaderTopcart{
+    width: 400px;
+    height: 114px;
+    background-color: white;
+    margin-left: 415px;
+    padding-top: 20px;
+    float: left;
+}
+
+.HeaderTopcart p{
+    text-align: center;
+}
+
+.HeaderTopcart p span.welcome{
+    padding-left: 50px;
+}
+
+.HeaderTopcart p span.gio_hang{
+    color: red;
+    font-size: 16px;
+    font-weight: 600;
+    padding-left: 50px;
+}
+
+.HeaderBottom{
+    width: 1215px;
+    height: 50px;
+    background-color: rgb(56, 56, 56);
+    border-radius: 6px;
+}
+
+.MenuPage{
+    width: 600px;
+    height: 50px;
+    background-color: rgb(56, 56, 56);
+    float: left;
+    border-radius: 6px;
+}
+
+.ul_MenuPage{
+    padding-left: 0px;
+    list-style-type: none;
+    width: 600px;
+    height: 50px;
+    font-size: 13px;
+    background-color: rgb(56, 56, 56);
+    border-radius: 6px;
+}
+
+.ul_MenuPage> .li_MenuPage{
+    /* padding-top: 10px; */
+    width: 110px ;
+    height:50px ;
+    line-height: 50px;
+    background-color: rgb(56, 56, 56);
+    text-align: center;
+    color: white;
+    float: left;
+    border: 0.3px solid rgb(56, 56, 51);
+}
+
+.ul_MenuPage > .li_MenuPage > a{
+    text-decoration: none;
+    display: block;
+    color: white;
+}
+
+.li_MenuPage :hover{
+    color: white;
+    background-color: red;
+    display: block;
+}
+
+.Search{
+    width: 180px;
+    height: 30px;
+    background-color: rgb(56, 56, 56);
+    margin-left: 395px;
+    padding-top: 5px;
+    float: left;
+}
+
+.Header_slide_category{
+    width: 1215px;
+    height: 439px;
+    background-color: white;
+    margin-top: 10px;
+}
+
+.Header_category{
+    width: 303px;
+    height: 437px;
+    background-color: rgb(22, 54, 82);
+    float: left;
+}
+
+.categories{
+    width: 303px;
+    height: 437px;
+    background-color: rgb(33, 196, 87);
+}
+
+
+.categories  > ul > h4{
+    padding:10px;
+    background-color: gray;
+    color: white;
+}
+
+.categories > ul {
+    text-decoration: none;
+    list-style-type: none;
+    
+    padding-left: 0px;
+}
+
+    .categories li a {
+        display: inline-block;
+        font-size: 0.8em;
+        padding: 8px 15px;
+        color: white;
+        margin: 0 20px;
+        background: url(../images/drop_arrow.png) no-repeat 0px;
+        text-transform: uppercase;
+        text-decoration: none;
+        font-weight: 400;
+    }
+
+        .categories li a:hover {
+            display: block;
+            background-color: #2a964c;
+            color: white;
+            font-size: 15px;
+        }
+
+.Header_slide{
+    width: 900px;
+    height: 300px;
+    padding-left: 1%;
+    float: left;
+}
+
+/*Start Main*/
+
+.Main{
+    width: 1215px;
+    height: 887px;
+    background-color: white;
+}
+
+.MainRigister{
+    width: 1215px;
+    height: 650px;
+    background-color: white;
+}
+
+
+.MainLogin{
+    width: 1215px;
+    height: 510px;
+    background-color: white;
+}
+
+.MainContact{
+    width: 1215px;
+    height: 1080px;
+    background-color: white;
+}
+
+.MainAbout{
+    width: 1215px;
+    height: 580px;
+    background-color: white;
+}
+
+.sectionNew{
+    width:1215px;
+    height: 260px;
+    background-color: white;
+    float: left;   
+}
+
+.ImgNew{
+    width:400px;
+    height: 230px;
+    background-color: white;
+    float: left;  
+}
+
+.contentNew{
+    width:800px;
+    height: 230px;
+    background-color: white;
+    float: left;  
+}
+
+.contentNew h6 a {
+        text-decoration: none;
+}
+
+.contentNew a {
+        text-decoration: none;
+}
+
+.MainNews{
+    width: 1215px;
+    height: 1080px;
+    background-color: white;
+}
+
+.MainContactCart{
+    width: 1215px;
+    height: 1300px;
+    background-color: white;
+    float: left;
+}
+
+.MainDetailProduct{
+    width: 1215px;
+    height: 1290px;
+    background-color: white;
+}
+
+.pageheader_Register{
+    width:1215px;
+    height: 138px;
+    background-color: black;
+    margin-bottom: 20px;
+}
+
+.pageheader_Register p{
+    color: white;
+    text-align: center;
+    padding-top:20px;
+}
+
+
+.pageheader_Register p.Thamgia_dangky{
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    padding-top:50px;
+    font-weight: 600;
+}
+
+.pageheader_Register p a{
+    color: green;
+    text-align: center;
+    padding-top:20px;
+    text-decoration: none;
+}
+
+/**/
+
+.pageheader_Cart{
+    width:1200px;
+    height: 138px;
+    margin-left: 20px;
+    margin-top: 10px;
+    background-color: white;
+    border: 1px solid silver;
+    border-radius: 15px;
+}
+
+.pageheader_Cart p{
+    color: black;
+    text-align: center;
+    padding-top:20px;
+}
+
+
+.pageheader_Cart p span.HeaderCart{
+    color: black;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 600;
+    padding-top:20px;
+}
+
+.pageheader_Cart p a{
+    color: green;
+    text-align: center;
+    padding-top:20px;
+    text-decoration: none;
+}
+/**/
+
+
+.content {
+    width: 1215px;
+    height: 400px;
+    background-color: rgb(167, 167, 44);
+    padding: 20px 0;
+    background: #FFF;
+    float:left;
+}
+
+
+.contentRigister {
+    width: 1215px;
+    height: 300px;
+    background-color: rgb(167, 167, 44);
+    padding: 20px 0;
+    background: #FFF;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+.Thongtinkhachhang_muaSP{
+    width: 1215px;
+    height: 360px;
+    background-color:  beige;
+    margin-top: 40px;
+    padding-top: 20px;
+    float: left;
+}
+
+.Thongtinkhachhang_muaSP h3{
+    text-align: center;
+}
+
+.Form{
+    width: 1215px;
+    height: 360px;
+    background-color: white;
+    margin-top: 40px;
+}
+
+.FormLogin{
+    width: 1215px;
+    height: 260px;
+    background-color: white;
+    margin-top: 40px;
+}
+
+.input-icon{
+    
+}
+
+.btnRegister{
+    margin-top: 20px;
+    margin-left: 130px;
+}
+
+.btnXacnhandonhang{
+    margin-top: 10px;
+    margin-left: 100px;
+}
+
+.button_shopnow{
+    width: 120px;
+    height: 40px;
+    border: 1px solid green;
+    display: inline-block;
+    background: white;
+    color: green;
+    text-decoration: none;
+    margin-top: 10px;
+    padding-top: 5px;
+    text-align: center;
+    border-radius: 5px;
+    text-decoration: none;
+    -webkit-transition: all 0.2s linear;
+    -moz-transition: all 0.2s linear;
+    -o-transition: all 0.2s linear;
+    transition: all 0.2s linear;
+}
+
+.cangiuabtnxacnhanhang{
+    margin-left: 0px;
+}
+
+.ColorDeverlop_history{
+    color: red;
+    font-weight: 600;
+}
+
+.baodong_Deverlop_content_history{
+    width: 355px;
+    height: 100px;
+    background-color: white;
+    padding: 20px 0;
+}
+
+.Deverlop_history{
+    width: 55px;
+    height: 80px;
+    background-color: white;
+    float: left;
+}
+
+
+.content_history{
+    width: 280px;
+    height: 80px;
+    background-color: white;
+    float: left;
+}
+
+
+
+
+.cangiuacontentabout{
+    text-align: justify;
+    font-size: 14px;
+    color: #333;
+}
+
+.button_shopnow:hover {
+    text-shadow: 0px 1px 1px #000;
+    background: red;
+    background-color: rgb(205, 31, 37);
+    -webkit-transform: scale(1.05);
+    -moz-transform: scale(1.05);
+    -ms-transform: scale(1.05);
+    -o-transform: scale(1.05);
+    transform: scale(1.05);
+    text-decoration: none;
+    background-color: red;
+    border: white;
+    color: white;
+
+}
+
+.button, input{
+    border:0px;
+    width: 250px;
+}
+.form-group{
+    padding-left: 10px;
+    padding-right: 10px;
+    
+}
+
+.FormRegister h3{
+    text-align: center;
+    font-weight: 500px;
+}
+
+.FormLogin h3{
+    text-align: center;
+    font-weight: 500px;
+}
+
+.page-register-form{
+    width:360px;
+    height: 360px;
+    background-color: white;
+    margin-left: 420px;
+    border: 1px solid silver;
+    border-radius: 3px;
+
+}
+
+.page-login-form{
+    width:360px;
+    height: 320px;
+    background-color: white;
+    margin-left: 420px;
+    border: 1px solid silver;
+    border-radius: 3px;
+
+}
+
+.page-informtion-form{
+    width:360px;
+    height: 360px;
+    background-color: white;
+    margin-left: 420px;
+    border: 1px solid silver;
+    border-radius: 3px;
+
+}
+
+.login_form{
+    width:360px;
+    height: 220px;
+    background-color: white;
+    margin-left: 420px;
+    border: 1px solid silver;
+    border-radius: 3px;
+
+}
+
+
+.login_form h3{
+}
+
+.heading {
+    float: left;
+}
+
+.see {
+    float: right;
+    padding-top: 8px;
+    font-weight: 200px;
+    font-size: 14px;
+}
+
+.see p a {
+    display: inline;
+    color: #333;
+    background: url(../images/list-img.png) no-repeat right 3px;
+    padding: 0px 12px 0px 0px;
+    font-size: 14px;
+}
+
+.see p a:hover {
+    color: red;
+}
+
+
+.content_top {
+    width: 1180px;
+    margin-left: 10px;
+    height: 58px;
+    background-color: white;
+    padding: 15px 20px;
+    border: 1px solid #EBE8E8;
+    border-radius: 3px;
+}
+
+.section_group {
+    width: 1215px;
+    height: 350px;
+    background-color: white;
+    clear: both;
+    padding: 0px;
+    margin: 0px;
+}
+
+
+.section_group2 {
+    width: 1215px;
+    height: 350px;
+    background-color: white;
+    clear: both;
+    padding: 0px;
+    margin: 0px;
+}
+
+
+.images_1_of_4:hover{
+    box-shadow: 0 15px 40px 0 rgba(0,0,0,.2);
+    transform: translateY(-10px);
+}
+
+.grid_1_of_4 {
+    margin: 10px;
+    width: 330px;
+    height: 315px;
+    background-color: white;
+    border: 1px solid silver;
+    position: relative;
+    display: inline-block;
+    padding: 15px 0 5px;
+    transition: box-shadow .3s ease-out,transform .3s ease-out;
+}
+
+/* .images_1_of_4  > a:hover{
+    box-shadow: 0 15px 40px 0 rgba(0,0,0,.2);
+    transform: translateY(-10px);
+} */
+
+
+
+.images_1_of_4 {
+    width: 280px;
+    padding: 1.5%;
+    text-align: center;
+    position: relative;
+}
+
+.grid_1_of_4 > h2{
+    font-size: 17px;
+    padding-top: 4px;
+}
+
+.price-details {
+    margin-top: 10px;
+    border-top: 1px solid #CD1F25;
+}
+
+.price-number {
+    float: left;
+    width: 100px;
+    height: 50px;
+}
+
+.price-details p span.rupees {
+    font-size: 19px;
+    font-family: 'ambleregular';
+    color:red;
+    font-weight: 500;
+    padding:0px;
+    float:left;
+}
+
+.price-details p span.sale {
+    font-size: 14px;
+    font-family: 'ambleregular';
+    color:black;
+    font-weight: 500;
+    text-decoration: line-through;
+    margin: 0px;
+}
+
+.add-cart{
+    width: 90px;
+    height: 30px;
+    background-color: aquamarine;
+    margin-left: 45px;
+    float: left;
+}
+
+ .add-cart a:hover {
+    background: black;
+}
+
+.add-cart a {
+    display: block;
+    background: #CD1F25;
+    font-size: 15px;
+    color: #FFF;
+    text-decoration: none;
+}
+
+.content_bottom{
+        width: 1180px;
+        margin-left: 10px;
+        height: 58px;
+        background-color: white;
+        padding: 15px 20px;
+        border: 1px solid #EBE8E8;
+        border-radius: 3px;
+        float: left;
+}
+
+.clear {
+    clear: both;
+}
+/*End Main*/
+/*Start Footer*/
+
+Footer{
+    width: 1519px;
+    height: 327.8px;
+    background-color: #333;
+    padding: 60px 0;
+    color: #fff;
+}
+
+.container{
+    width: 1170px;
+}
+
+#copyright{
+    background-color: #393939;
+    padding: 20px 0 10px;
+    color: #fff;
+}
+
+.address{
+    padding-left: 0px;
+    list-style: none;
+}
+
+.address > li > a{
+    font-weight: 100;
+}
+
+.address > li > a:hover{
+    color: aquamarine;
+}
+
+.footer-widget > h4{
+    font-weight: 300;
+    font-size: 18px;
+}
+
+.footer-nav > ul{
+    padding-left: 0px;
+    list-style: none;
+}
+
+.footer-nav > ul > li > a{
+    text-decoration: none;
+}
+.footer-nav > ul > li > a:hover{
+    color: aquamarine;
+}
+
+.mang_xa_hoi > ul{
+    color:white;
+    list-style-type: none;
+    padding-left: 0px;
+}
+.mang_xa_hoi > ul > li > a:hover{
+    color : aquamarine;
+}
+
+.info-design{
+    text-align: center;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/*End Footer*/
+
+/* 
+#toTop {
+    display: none;
+    text-decoration: none;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    overflow: hidden;
+    width: 48px;
+    height: 48px;
+    border: none;
+    text-indent: 100%;
+    background: url(../images/arrow_up.png) no-repeat right top;
+}
+
+#toTopHover {
+    width: 48px;
+    height: 48px;
+    display: block;
+    overflow: hidden;
+    float: right;
+    opacity: 0;
+    -moz-opacity: 0;
+    filter: alpha(opacity=0);
+} */
